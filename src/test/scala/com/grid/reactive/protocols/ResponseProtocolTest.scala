@@ -38,5 +38,6 @@ class ResponseProtocolTest extends FunSuite {
     assert("dengcqw".equals(project.owner.login))
     assert(project.forks_count == 0)
     assert(project.has_downloads)
+    assert(!project.fork)
   }
 }
