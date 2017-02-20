@@ -1,5 +1,7 @@
 package com.grid.reactive.model.Twitter
 
+import play.api.libs.json.JsValue
+
 /**
   * Created by alexandru-petrisorpajarcu on 20/02/2017.
   */
@@ -28,8 +30,8 @@ case class TwitterUser(
   is_translator: Boolean,
   is_translation_enabled: Boolean,
   profile_background_color: String,
-  profile_background_image_url: String,
-  profile_background_image_url_https: String,
+  profile_background_image_url: JsValue,
+  profile_background_image_url_https: JsValue,
   profile_background_tile: Boolean,
   profile_image_url: String,
   profile_image_url_https: String,

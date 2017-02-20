@@ -1,0 +1,1767 @@
+[ {
+  "created_at" : "Sat Feb 18 17:09:42 +0000 2017",
+  "id" : 833000549603799040,
+  "id_str" : "833000549603799040",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"https://twitter.com/alevergara78\" rel=\"nofollow\">realtimeApp_reactjs</a>",
+  "user" : {
+    "id" : 104520454,
+    "id_str" : "104520454",
+    "name" : "alejandro vergara",
+    "screen_name" : "alevergara78",
+    "location" : "Santiago, Chile",
+    "description" : "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. Martin Fowler.\n#BigData  #machinelearning",
+    "url" : "https://t.co/7WtxS2cHYx",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/7WtxS2cHYx",
+          "expanded_url" : "http://cl.linkedin.com/in/alevergara",
+          "display_url" : "cl.linkedin.com/in/alevergara",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 3054,
+    "friends_count" : 702,
+    "listed_count" : 3890,
+    "created_at" : "Wed Jan 13 15:46:14 +0000 2010",
+    "favourites_count" : 1341,
+    "utc_offset" : -10800,
+    "time_zone" : "Santiago",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 128496,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg",
+    "profile_link_color" : "02243B",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Sat Feb 18 17:09:15 +0000 2017",
+  "id" : 833000436114272260,
+  "id_str" : "833000436114272260",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "user" : {
+    "id" : 22824243,
+    "id_str" : "22824243",
+    "name" : "Tripp Braden",
+    "screen_name" : "TrippBraden",
+    "location" : "Columbus, OH",
+    "description" : "Senior business development and #sales leader in #Industry40 including:#bigdata, advanced #analytics, #internetofthings, #IOT and #datasecurity.",
+    "url" : "https://t.co/DGmvN8NrRd",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/DGmvN8NrRd",
+          "expanded_url" : "https://www.linkedin.com/in/trippbraden",
+          "display_url" : "linkedin.com/in/trippbraden",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 23880,
+    "friends_count" : 17302,
+    "listed_count" : 8451,
+    "created_at" : "Wed Mar 04 19:57:01 +0000 2009",
+    "favourites_count" : 5746,
+    "utc_offset" : -18000,
+    "time_zone" : "Eastern Time (US & Canada)",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 191849,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "022330",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/686262456126205952/wCla5uWm_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/686262456126205952/wCla5uWm_normal.jpg",
+    "profile_link_color" : "0084B4",
+    "profile_sidebar_border_color" : "A8C7F7",
+    "profile_sidebar_fill_color" : "C0DFEC",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 21:31:49 +0000 2017",
+  "id" : 832704125305446402,
+  "id_str" : "832704125305446402",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "user" : {
+    "id" : 2971876630,
+    "id_str" : "2971876630",
+    "name" : "Johannes Scheuermann",
+    "screen_name" : "johscheuer",
+    "location" : "Germany",
+    "description" : "Build it, break it, fix it.",
+    "url" : "https://t.co/mXFfgF7loL",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/mXFfgF7loL",
+          "expanded_url" : "https://github.com/johscheuer",
+          "display_url" : "github.com/johscheuer",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 121,
+    "friends_count" : 110,
+    "listed_count" : 53,
+    "created_at" : "Sat Jan 10 18:56:19 +0000 2015",
+    "favourites_count" : 397,
+    "utc_offset" : 3600,
+    "time_zone" : "Berlin",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 775,
+    "lang" : "de",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/553989924165136384/9xpkhB20_normal.jpeg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/553989924165136384/9xpkhB20_normal.jpeg",
+    "profile_link_color" : "89C9FA",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 19:42:33 +0000 2017",
+  "id" : 832676628530503680,
+  "id_str" : "832676628530503680",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "user" : {
+    "id" : 91334387,
+    "id_str" : "91334387",
+    "name" : "Eoin Brazil",
+    "screen_name" : "eoinbrazil",
+    "location" : "Dublin 2, Ireland",
+    "description" : "PhD. Working for MongoDB, Inc. in Dublin. Speaking my mind on Big Data, NoSQL, Cloud & UX. These are my own views!",
+    "url" : "http://t.co/c3HV5QjCVf",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "http://t.co/c3HV5QjCVf",
+          "expanded_url" : "http://www.linkedin.com/in/eoinbrazil",
+          "display_url" : "linkedin.com/in/eoinbrazil",
+          "indices" : [ 0, 22 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 1684,
+    "friends_count" : 2563,
+    "listed_count" : 602,
+    "created_at" : "Fri Nov 20 12:56:17 +0000 2009",
+    "favourites_count" : 16807,
+    "utc_offset" : 0,
+    "time_zone" : "Dublin",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 17099,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/710075780307525632/RBCsfYP5_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/710075780307525632/RBCsfYP5_normal.jpg",
+    "profile_link_color" : "ABB8C2",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 18:47:20 +0000 2017",
+  "id" : 832662733178875904,
+  "id_str" : "832662733178875904",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "user" : {
+    "id" : 3170202147,
+    "id_str" : "3170202147",
+    "name" : "Hans-Peter Zorn",
+    "screen_name" : "data_hpz",
+    "location" : "Karlsruhe, Germany",
+    "description" : "Interests: Data Science, Machine Learning, AI, Apache Spark, Apache Flink, Recommender Systems, Deep Learning. @inovexgmbh Views my own.",
+    "url" : "https://t.co/emQsrujng5",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/emQsrujng5",
+          "expanded_url" : "https://de.linkedin.com/in/hanspeterzorn",
+          "display_url" : "de.linkedin.com/in/hanspeterzo…",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 6903,
+    "friends_count" : 5792,
+    "listed_count" : 307,
+    "created_at" : "Wed Apr 15 14:34:13 +0000 2015",
+    "favourites_count" : 5545,
+    "utc_offset" : 3600,
+    "time_zone" : "Bern",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 1800,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : true,
+    "profile_background_color" : "3B94D9",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/588350133068267521/r-cTvz2n_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/588350133068267521/r-cTvz2n_normal.jpg",
+    "profile_link_color" : "89C9FA",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 18:45:01 +0000 2017",
+  "id" : 832662151688892416,
+  "id_str" : "832662151688892416",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"https://twitter.com/alevergara78\" rel=\"nofollow\">realtimeApp_reactjs</a>",
+  "user" : {
+    "id" : 104520454,
+    "id_str" : "104520454",
+    "name" : "alejandro vergara",
+    "screen_name" : "alevergara78",
+    "location" : "Santiago, Chile",
+    "description" : "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. Martin Fowler.\n#BigData  #machinelearning",
+    "url" : "https://t.co/7WtxS2cHYx",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/7WtxS2cHYx",
+          "expanded_url" : "http://cl.linkedin.com/in/alevergara",
+          "display_url" : "cl.linkedin.com/in/alevergara",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 3054,
+    "friends_count" : 702,
+    "listed_count" : 3890,
+    "created_at" : "Wed Jan 13 15:46:14 +0000 2010",
+    "favourites_count" : 1341,
+    "utc_offset" : -10800,
+    "time_zone" : "Santiago",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 128496,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg",
+    "profile_link_color" : "02243B",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 18:44:34 +0000 2017",
+  "id" : 832662036886675458,
+  "id_str" : "832662036886675458",
+  "text" : "RT @tnachen: Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "tnachen",
+      "name" : "Timothy Chen",
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "indices" : [ 3, 11 ]
+    }, {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 30, 39 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 87, 110 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "user" : {
+    "id" : 16031366,
+    "id_str" : "16031366",
+    "name" : "Alexander Gallego",
+    "screen_name" : "emaxerrno",
+    "location" : "brooklyn",
+    "description" : "made in colombia. co founder of @concord",
+    "url" : "https://t.co/KdftN9l15z",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/KdftN9l15z",
+          "expanded_url" : "http://alexgallego.org",
+          "display_url" : "alexgallego.org",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 428,
+    "friends_count" : 798,
+    "listed_count" : 62,
+    "created_at" : "Thu Aug 28 19:21:20 +0000 2008",
+    "favourites_count" : 7060,
+    "utc_offset" : -18000,
+    "time_zone" : "Eastern Time (US & Canada)",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 5553,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "515151",
+    "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/679056191/8388f9f5ebca3dd2c58b44f190687497.png",
+    "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/679056191/8388f9f5ebca3dd2c58b44f190687497.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/811753455228436481/x21iymab_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/811753455228436481/x21iymab_normal.jpg",
+    "profile_link_color" : "333333",
+    "profile_sidebar_border_color" : "FFFFFF",
+    "profile_sidebar_fill_color" : "DDEEF6",
+    "profile_text_color" : "0084B4",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : true,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+    "id" : 832653257474322432,
+    "id_str" : "832653257474322432",
+    "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ ],
+      "symbols" : [ ],
+      "user_mentions" : [ {
+        "screen_name" : "ssuchter",
+        "name" : "Sean Suchter",
+        "id" : 28605228,
+        "id_str" : "28605228",
+        "indices" : [ 17, 26 ]
+      } ],
+      "urls" : [ {
+        "url" : "https://t.co/LFtM9fsQjq",
+        "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+        "display_url" : "github.com/apache-spark-o…",
+        "indices" : [ 74, 97 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "user" : {
+      "id" : 15759497,
+      "id_str" : "15759497",
+      "name" : "Timothy Chen",
+      "screen_name" : "tnachen",
+      "location" : "Mountain View, CA",
+      "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+      "url" : "https://t.co/eRReeWexkV",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "https://t.co/eRReeWexkV",
+            "expanded_url" : "http://tnachen.wordpress.com",
+            "display_url" : "tnachen.wordpress.com",
+            "indices" : [ 0, 23 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 895,
+      "friends_count" : 1065,
+      "listed_count" : 138,
+      "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+      "favourites_count" : 384,
+      "utc_offset" : -28800,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : true,
+      "verified" : false,
+      "statuses_count" : 3688,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "022330",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+      "profile_link_color" : "0084B4",
+      "profile_sidebar_border_color" : "A8C7F7",
+      "profile_sidebar_fill_color" : "C0DFEC",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 7,
+    "favorite_count" : 6,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 18:09:41 +0000 2017",
+  "id" : 832653257474322432,
+  "id_str" : "832653257474322432",
+  "text" : "Nice write up by @ssuchter on how YARN deals with batch jobs multitenancy https://t.co/LFtM9fsQjq considerations for k8s spark",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "ssuchter",
+      "name" : "Sean Suchter",
+      "id" : 28605228,
+      "id_str" : "28605228",
+      "indices" : [ 17, 26 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/LFtM9fsQjq",
+      "expanded_url" : "https://github.com/apache-spark-on-k8s/spark/issues/127#issuecomment-280717730",
+      "display_url" : "github.com/apache-spark-o…",
+      "indices" : [ 74, 97 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "user" : {
+    "id" : 15759497,
+    "id_str" : "15759497",
+    "name" : "Timothy Chen",
+    "screen_name" : "tnachen",
+    "location" : "Mountain View, CA",
+    "description" : "Founder in stealth. PMC/Committer @ApacheDrill, @ApacheMesos. ex-@Mesosphere",
+    "url" : "https://t.co/eRReeWexkV",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "https://t.co/eRReeWexkV",
+          "expanded_url" : "http://tnachen.wordpress.com",
+          "display_url" : "tnachen.wordpress.com",
+          "indices" : [ 0, 23 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 895,
+    "friends_count" : 1065,
+    "listed_count" : 138,
+    "created_at" : "Thu Aug 07 04:08:29 +0000 2008",
+    "favourites_count" : 384,
+    "utc_offset" : -28800,
+    "time_zone" : "Pacific Time (US & Canada)",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 3688,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "022330",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/676697620979453952/dEPPmMNj_normal.jpg",
+    "profile_link_color" : "0084B4",
+    "profile_sidebar_border_color" : "A8C7F7",
+    "profile_sidebar_fill_color" : "C0DFEC",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 7,
+  "favorite_count" : 6,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Fri Feb 17 12:53:37 +0000 2017",
+  "id" : 832573717112709121,
+  "id_str" : "832573717112709121",
+  "text" : "https://t.co/ptHOYRxh5c",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ ],
+    "urls" : [ {
+      "url" : "https://t.co/ptHOYRxh5c",
+      "expanded_url" : "https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/jdbc/JdbcUtils.scala#L99",
+      "display_url" : "github.com/apache/spark/b…",
+      "indices" : [ 0, 23 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "und",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "user" : {
+    "id" : 37641954,
+    "id_str" : "37641954",
+    "name" : "nabsan_jp",
+    "screen_name" : "nabsan_jp",
+    "location" : "Nagasaki",
+    "description" : "生涯イチProgrammer@長崎です。plz follow me! refollowします。 好きな言語は js, pl, R, .. MacBook&iPhone を装備し、統計学 等勉強を続けており、 大量の情報をどう料理するか？その事を考えながら日々を過ごしてます。他好物は、読書、サザン、ウクレレ、アロマ..",
+    "url" : "http://t.co/4pw3mSwCsN",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "http://t.co/4pw3mSwCsN",
+          "expanded_url" : "http://www.ikarosu.net/nabsan/",
+          "display_url" : "ikarosu.net/nabsan/",
+          "indices" : [ 0, 22 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 1163,
+    "friends_count" : 1420,
+    "listed_count" : 24,
+    "created_at" : "Mon May 04 11:37:28 +0000 2009",
+    "favourites_count" : 22,
+    "utc_offset" : 32400,
+    "time_zone" : "Tokyo",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 847,
+    "lang" : "ja",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "352726",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/195900606/WS00000cus3_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/195900606/WS00000cus3_normal.jpg",
+    "profile_link_color" : "D02B55",
+    "profile_sidebar_border_color" : "829D5E",
+    "profile_sidebar_fill_color" : "99CC33",
+    "profile_text_color" : "3E4415",
+    "profile_use_background_image" : true,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 0,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "und"
+}, {
+  "created_at" : "Wed Feb 15 08:17:25 +0000 2017",
+  "id" : 831779434210418689,
+  "id_str" : "831779434210418689",
+  "text" : "RT @LucaCanaliDB: Good to see that SQL hints are coming to #ApacheSpark - see also https://t.co/Yps5SgCgS2",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ {
+      "text" : "ApacheSpark",
+      "indices" : [ 59, 71 ]
+    } ],
+    "symbols" : [ ],
+    "user_mentions" : [ {
+      "screen_name" : "LucaCanaliDB",
+      "name" : "Luca Canali",
+      "id" : 1334175452,
+      "id_str" : "1334175452",
+      "indices" : [ 3, 16 ]
+    } ],
+    "urls" : [ {
+      "url" : "https://t.co/Yps5SgCgS2",
+      "expanded_url" : "https://github.com/apache/spark/pull/16925",
+      "display_url" : "github.com/apache/spark/p…",
+      "indices" : [ 83, 106 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "user" : {
+    "id" : 330926790,
+    "id_str" : "330926790",
+    "name" : "James Lupolt",
+    "screen_name" : "jlupoltsql",
+    "location" : "Paddington, London",
+    "description" : "Database software geek.",
+    "entities" : {
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 312,
+    "friends_count" : 146,
+    "listed_count" : 42,
+    "created_at" : "Thu Jul 07 11:22:56 +0000 2011",
+    "favourites_count" : 252,
+    "utc_offset" : 0,
+    "time_zone" : "Casablanca",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 31,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "C0DEED",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/612253949782044673/GKy7zrP5_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/612253949782044673/GKy7zrP5_normal.jpg",
+    "profile_link_color" : "1DA1F2",
+    "profile_sidebar_border_color" : "C0DEED",
+    "profile_sidebar_fill_color" : "DDEEF6",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "has_extended_profile" : true,
+    "default_profile" : true,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "retweeted_status" : {
+    "created_at" : "Wed Feb 15 08:17:02 +0000 2017",
+    "id" : 831779336248238080,
+    "id_str" : "831779336248238080",
+    "text" : "Good to see that SQL hints are coming to #ApacheSpark - see also https://t.co/Yps5SgCgS2",
+    "truncated" : false,
+    "entities" : {
+      "hashtags" : [ {
+        "text" : "ApacheSpark",
+        "indices" : [ 41, 53 ]
+      } ],
+      "symbols" : [ ],
+      "user_mentions" : [ ],
+      "urls" : [ {
+        "url" : "https://t.co/Yps5SgCgS2",
+        "expanded_url" : "https://github.com/apache/spark/pull/16925",
+        "display_url" : "github.com/apache/spark/p…",
+        "indices" : [ 65, 88 ]
+      } ]
+    },
+    "metadata" : {
+      "iso_language_code" : "en",
+      "result_type" : "recent"
+    },
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "user" : {
+      "id" : 1334175452,
+      "id_str" : "1334175452",
+      "name" : "Luca Canali",
+      "screen_name" : "LucaCanaliDB",
+      "location" : "Geneva, Switzerland",
+      "description" : "Database Engineer @CERN - Hadoop and Spark service, database service, data analytics.",
+      "url" : "http://t.co/OA7pzZtEYx",
+      "entities" : {
+        "url" : {
+          "urls" : [ {
+            "url" : "http://t.co/OA7pzZtEYx",
+            "expanded_url" : "http://cern.ch/canali",
+            "display_url" : "cern.ch/canali",
+            "indices" : [ 0, 22 ]
+          } ]
+        },
+        "description" : {
+          "urls" : [ ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 987,
+      "friends_count" : 686,
+      "listed_count" : 32,
+      "created_at" : "Sun Apr 07 13:57:23 +0000 2013",
+      "favourites_count" : 1018,
+      "utc_offset" : 3600,
+      "time_zone" : "Paris",
+      "geo_enabled" : false,
+      "verified" : false,
+      "statuses_count" : 179,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "C0DEED",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile" : false,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000811081324/ec2cc398422e4aa1338b048d6f03f28a_normal.jpeg",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000811081324/ec2cc398422e4aa1338b048d6f03f28a_normal.jpeg",
+      "profile_link_color" : "1DA1F2",
+      "profile_sidebar_border_color" : "C0DEED",
+      "profile_sidebar_fill_color" : "DDEEF6",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "has_extended_profile" : false,
+      "default_profile" : true,
+      "default_profile_image" : false,
+      "translator_type" : "none"
+    },
+    "is_quote_status" : false,
+    "retweet_count" : 2,
+    "favorite_count" : 1,
+    "favorited" : false,
+    "retweeted" : false,
+    "possibly_sensitive" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 2,
+  "favorite_count" : 0,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Wed Feb 15 08:17:02 +0000 2017",
+  "id" : 831779336248238080,
+  "id_str" : "831779336248238080",
+  "text" : "Good to see that SQL hints are coming to #ApacheSpark - see also https://t.co/Yps5SgCgS2",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ {
+      "text" : "ApacheSpark",
+      "indices" : [ 41, 53 ]
+    } ],
+    "symbols" : [ ],
+    "user_mentions" : [ ],
+    "urls" : [ {
+      "url" : "https://t.co/Yps5SgCgS2",
+      "expanded_url" : "https://github.com/apache/spark/pull/16925",
+      "display_url" : "github.com/apache/spark/p…",
+      "indices" : [ 65, 88 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "en",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "user" : {
+    "id" : 1334175452,
+    "id_str" : "1334175452",
+    "name" : "Luca Canali",
+    "screen_name" : "LucaCanaliDB",
+    "location" : "Geneva, Switzerland",
+    "description" : "Database Engineer @CERN - Hadoop and Spark service, database service, data analytics.",
+    "url" : "http://t.co/OA7pzZtEYx",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "http://t.co/OA7pzZtEYx",
+          "expanded_url" : "http://cern.ch/canali",
+          "display_url" : "cern.ch/canali",
+          "indices" : [ 0, 22 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 987,
+    "friends_count" : 686,
+    "listed_count" : 32,
+    "created_at" : "Sun Apr 07 13:57:23 +0000 2013",
+    "favourites_count" : 1018,
+    "utc_offset" : 3600,
+    "time_zone" : "Paris",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 179,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "C0DEED",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000811081324/ec2cc398422e4aa1338b048d6f03f28a_normal.jpeg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000811081324/ec2cc398422e4aa1338b048d6f03f28a_normal.jpeg",
+    "profile_link_color" : "1DA1F2",
+    "profile_sidebar_border_color" : "C0DEED",
+    "profile_sidebar_fill_color" : "DDEEF6",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "has_extended_profile" : false,
+    "default_profile" : true,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 2,
+  "favorite_count" : 1,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "en"
+}, {
+  "created_at" : "Sat Feb 11 08:50:42 +0000 2017",
+  "id" : 830338260425601030,
+  "id_str" : "830338260425601030",
+  "text" : "Hive UDFで一部対応できていなかったReturn Valueの型に対応した [SPARK-19548][SQL] Support Hive UDFs which return typed Lists/Maps https://t.co/3TilXHQ4s9",
+  "truncated" : false,
+  "entities" : {
+    "hashtags" : [ ],
+    "symbols" : [ ],
+    "user_mentions" : [ ],
+    "urls" : [ {
+      "url" : "https://t.co/3TilXHQ4s9",
+      "expanded_url" : "https://github.com/apache/spark/pull/16886",
+      "display_url" : "github.com/apache/spark/p…",
+      "indices" : [ 108, 131 ]
+    } ]
+  },
+  "metadata" : {
+    "iso_language_code" : "ja",
+    "result_type" : "recent"
+  },
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "user" : {
+    "id" : 15774392,
+    "id_str" : "15774392",
+    "name" : "Takeshi Yamamuro",
+    "screen_name" : "maropu",
+    "location" : "Tokyo, Japan",
+    "description" : "Research engineer - interested in DBs, compression, hardware-aware algorithms (e.g., SIMD, NUMA, GPU, ...), Apache Spark, Apache Hivemall, ....",
+    "url" : "http://t.co/pmx3KddyqF",
+    "entities" : {
+      "url" : {
+        "urls" : [ {
+          "url" : "http://t.co/pmx3KddyqF",
+          "expanded_url" : "http://www.linkedin.com/pub/takeshi-yamamuro/56/374/395",
+          "display_url" : "linkedin.com/pub/takeshi-ya…",
+          "indices" : [ 0, 22 ]
+        } ]
+      },
+      "description" : {
+        "urls" : [ ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 626,
+    "friends_count" : 392,
+    "listed_count" : 62,
+    "created_at" : "Fri Aug 08 04:44:47 +0000 2008",
+    "favourites_count" : 5523,
+    "utc_offset" : -36000,
+    "time_zone" : "Hawaii",
+    "geo_enabled" : true,
+    "verified" : false,
+    "statuses_count" : 16711,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "000000",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile" : false,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/791187885252759552/_hDIBnFs_normal.jpg",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/791187885252759552/_hDIBnFs_normal.jpg",
+    "profile_link_color" : "DD2E44",
+    "profile_sidebar_border_color" : "000000",
+    "profile_sidebar_fill_color" : "000000",
+    "profile_text_color" : "000000",
+    "profile_use_background_image" : false,
+    "has_extended_profile" : false,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "translator_type" : "none"
+  },
+  "is_quote_status" : false,
+  "retweet_count" : 0,
+  "favorite_count" : 3,
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "lang" : "ja"
+} ]
